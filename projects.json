@@ -37,12 +37,13 @@
         "description": "An interpreter written in Zig.",
         "githubUrl": "https://github.com/JBrLloyd/zig-lox-interpreter",
         "tags": [
-            "Zig"
+            "Zig",
+            "Language"
         ]
     },
     {
         "projectName": "HTTP Server From Scratch",
-        "description": "An TCP HTTP server written in Rust.",
+        "description": "A TCP HTTP server written in Rust.",
         "githubUrl": "https://github.com/JBrLloyd/rust-http-server",
         "tags": [
             "Rust",
