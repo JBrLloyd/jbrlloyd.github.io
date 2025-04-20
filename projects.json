@@ -1,0 +1,20 @@
+[
+    {
+        "projectName": "Language Interpretor",
+        "description": "An interpreter written in Zig.",
+        "githubUrl": "https://github.com/JBrLloyd/zig-lox-interpreter",
+        "tags": [
+            "zig"
+        ]
+    },
+    {
+        "projectName": "A HTTP server from scratch",
+        "description": "An TCP HTTP server written in Rust.",
+        "githubUrl": "https://github.com/JBrLloyd/rust-http-server",
+        "tags": [
+            "rust",
+            "http",
+            "web-server"
+        ]
+    }
+]
