@@ -1,20 +1,54 @@
 [
     {
-        "projectName": "Language Interpretor",
-        "description": "An interpreter written in Zig.",
-        "githubUrl": "https://github.com/JBrLloyd/zig-lox-interpreter",
+        "projectName": "JBrLloyd Blog",
+        "description": "A personal blog with daily tech news.",
+        "website": "https://jbrlloyd.dev",
         "tags": [
-            "zig"
+            "Astro",
+            "HTTP",
+            "Cloudflare",
+            "TailwindCSS"
         ]
     },
     {
-        "projectName": "A HTTP server from scratch",
+        "projectName": "ArgoCD Setup",
+        "description": "An automated setup for running a GitOps ArgoCD locally with Minikube.",
+        "githubUrl": "https://github.com/JBrLloyd/kube-setup",
+        "tags": [
+            "GitOps",
+            "Kubernetes",
+            "Minikube",
+            "Podman"
+        ]
+    },
+    {
+        "projectName": ".NET Aspire Setup",
+        "description": "Examples and guide for running Dev Containers & .NET Aspire for local ephemeral development and integration testing.",
+        "githubUrl": "https://github.com/JBrLloyd/devcontainer-aspire-demo",
+        "tags": [
+            ".NET",
+            "C#",
+            "Aspire",
+            "DevContainers"
+        ]
+    },
+    {
+        "projectName": "Programming Language Interpreter",
+        "description": "An interpreter written in Zig.",
+        "githubUrl": "https://github.com/JBrLloyd/zig-lox-interpreter",
+        "tags": [
+            "Zig"
+        ]
+    },
+    {
+        "projectName": "HTTP Server From Scratch",
         "description": "An TCP HTTP server written in Rust.",
         "githubUrl": "https://github.com/JBrLloyd/rust-http-server",
         "tags": [
-            "rust",
-            "http",
-            "web-server"
+            "Rust",
+            "HTTP",
+            "TCP",
+            "Web Server"
         ]
     }
 ]
