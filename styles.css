@@ -25,6 +25,7 @@
   }
 }
 
+
 @property --gradient-angle {
   syntax: "<angle>";
   initial-value: 132deg;
@@ -44,7 +45,6 @@
   
   --rounded-gradient: 0.2rem;
 }
-
 
 #content-wrapper {
   position: relative;
