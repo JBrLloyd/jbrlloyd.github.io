@@ -131,13 +131,15 @@
                       class="font-semibold text-lg text-light-header-primary dark:text-dark-header-primary"
                     >${project.projectName}</h1>
   
+                    <p class="text-sm text-light-primary dark:text-dark-primary">
                     ${links
                       .map(link => `<a
                             href="${link.href}"
                             target="_blank"
-                            class="text-sm text-light-link-primary dark:text-dark-link-primary underline"
+                            class="text-sm text-light-link-primary dark:text-dark-link-primary underline inline"
                           >${link.label}</a>`)
                       .join(' • ')}
+                    </p>
   
                     <p class="text-light-primary dark:text-dark-primary wrap-anywhere max-h-[350px] overflow-y-auto"
                     >${project.description}</p>

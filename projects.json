@@ -1,13 +1,24 @@
 [
     {
-        "projectName": "JBrLloyd Blog",
-        "description": "A personal blog with daily tech news.",
+        "projectName": "The Exploring Techie",
+        "description": "My personal blog with daily tech news.",
         "website": "https://jbrlloyd.dev",
         "tags": [
             "Astro",
             "HTTP",
             "Cloudflare",
             "TailwindCSS"
+        ]
+    },
+    {
+        "projectName": "JBrLloyd's Projects",
+        "description": "A personal site for showcasing project and skill set.",
+        "website": "https://projects.jbrlloyd.dev",
+        "githubUrl": "https://github.com/JBrLloyd/jbrlloyd.github.io",
+        "tags": [
+            "Vanilla JS",
+            "TailwindCSS",
+            "GitHub Page"
         ]
     },
     {
