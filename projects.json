@@ -62,5 +62,15 @@
             "TCP",
             "Web Server"
         ]
+    },
+    {
+        "projectName": "Note Taking Chromium Extension",
+        "description": "A note taking chroium browser extension, intended to save the site URL, written in Svelte and Node.",
+        "githubUrl": "https://github.com/JBrLloyd/jbrlloyd-browser-extension",
+        "tags": [
+            "Svelte",
+            "Azure Function",
+            "Node"
+        ]
     }
 ]
