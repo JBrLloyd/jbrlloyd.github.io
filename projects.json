@@ -45,7 +45,7 @@
     },
     {
         "projectName": "Programming Language Interpreter",
-        "description": "An interpreter written in Zig.",
+        "description": "A custom prgramming language interpreter written in Zig.",
         "githubUrl": "https://github.com/JBrLloyd/zig-lox-interpreter",
         "tags": [
             "Zig",
